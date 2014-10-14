@@ -4,7 +4,7 @@ import java.awt.Rectangle;
 import java.awt.event.KeyEvent;
 /**
  * ´ú±íÉß
- *
+ *+2
  */
 
 public class Snake {
